@@ -13,6 +13,7 @@ NotifyMePlease is a Python-based application that automates the process of check
 - [Dependencies](#dependencies)
 - [License](#license)
 - [Legal Disclaimer](#legal-disclaimer)
+- [Contact](#contact)
 
 ## Prerequisites
 
