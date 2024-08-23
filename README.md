@@ -12,6 +12,7 @@ NotifyMePlease is a Python-based application that automates the process of check
 - [Troubleshooting](#troubleshooting)
 - [Dependencies](#dependencies)
 - [License](#license)
+- [Legal Disclaimer](#legal-disclaimer)
 
 ## Prerequisites
 
@@ -172,6 +173,11 @@ pip install -r requirements.txt
 
 ## License
 This project is licensed under the GNU General Public License.
+
+## Legal Disclaimer
+**Important: Using scripts or bots to book appointments on the Stadt Aachen Ausländerbehörde website may violate the website's terms of service and could be considered illegal under German law. This bot is designed solely to check for the availability of appointments and does not automate the booking process.
+The author of this script does not take any responsibility for the misuse of this software. The recommended scheduling interval for running this script is every 5 minutes to avoid overwhelming the Stadt Aachen servers and to comply with ethical usage.
+By using this software, you agree to take full responsibility for any legal or ethical issues that may arise from its use.**
 
 ## Contact 
 twitchocean@gmail.com
